@@ -765,6 +765,10 @@
     "$then": ["underscore", "backbone", "coffeescript"],
     "home": "http://sugarjs.com/",
     "links": [
+    	{
+        "name": "Sugar - A Javascript library for working with native objects.",
+        "url": "http://sugarjs.com/"
+      },
     ]
   },
   {
